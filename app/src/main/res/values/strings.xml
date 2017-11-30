@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">AMZO</string>
+    <string name="tab_1">Label 1</string>
+    <string name="tab_2">Label 2</string>
+    <string name="tab_3">Label 3</string>
+    <string name="tab_4">Label 4</string>
+    <string name="tab_5">Label 5</string>
+
+    <string name="menu_1">Home</string>
+    <string name="menu_2">Offer</string>
+    <string name="menu_3">Menu 3</string>
+    <string name="menu_4">Notification</string>
+    <string name="menu_5">Help</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="opendeal">Open Deal</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="emailcontact_string">Email : ssvmakers@gmail.com</string>
+    <string name="mobilecontact_string">Mob : +91 7566 565 633</string>
+    <string name="tag_name">Making every thing easy</string>
+    <string name="powerd_by">ssvmakers</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+</resources>
